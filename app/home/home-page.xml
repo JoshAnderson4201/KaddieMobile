@@ -1,0 +1,12 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" actionBarHidden="true">
+
+    <FlexboxLayout>
+        <StackLayout>
+            <Label id="title" text="Kaddie"/>
+            <Button text="New Round" tap="startNewRound"/>
+            <Button text="Previous Rounds" tap="viewPreviousRounds"/>
+            <Button text="View Stats" tap="viewStats"/>
+        </StackLayout>
+    </FlexboxLayout>
+
+</Page>

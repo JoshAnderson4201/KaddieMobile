@@ -1,0 +1,11 @@
+<Page class="page">
+    <FlexboxLayout>
+        <StackLayout id="mainStack">
+            <Label text="New Round Options"/>
+            <StackLayout id="selectHoles" orientation="horizontal">
+                <Image src="res://icon" height="100"/>
+                <Image src="res://icon" height="100"/>
+            </StackLayout>
+        </StackLayout>
+    </FlexboxLayout>
+</Page>

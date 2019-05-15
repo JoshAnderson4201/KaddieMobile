@@ -1,0 +1,27 @@
+FlexboxLayout {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+#mainStack {
+    height: 70%;
+    width: 100%;
+    padding: 40;
+}
+
+#selectHoles
+{
+    justify-content: center;
+}
+
+Button {
+    margin-top: 20;
+    color: green;
+}
+
+Label {
+    text-align: center;
+    font-size: 20;
+    color: green;
+}
